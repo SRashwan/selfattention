@@ -1,1 +1,3 @@
-# selfattention
+# Deep Dive The Scaled Dot-Product Self-Attention Mechanism (Code Analysis)
+
+### This isn’t just a mathematical rundown,but a comprehensive, professional examination of the Transformer’s core and analysis of code implemented that builds the Scaled Dot-Product Self Attention mechanism. We break down the Transformer’s core logic, walking through every stage from raw input to the final output and updating via context-aware vector. The goal is to fully understand how the system “learns” parts of a sequence that matter the most at any given moment, making it a powerful tool for sequence analysis and data processing.
